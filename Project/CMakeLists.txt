@@ -65,15 +65,18 @@ include_directories(DebugProject/MDK-ARM/RTE)
 include_directories(DebugProject/MDK-ARM/RTE/_DebugProject)
 
 add_executable(Project
+        .idea/workspace.xml
         DebugProject/Core/Inc/gpio.h
         DebugProject/Core/Inc/main.h
         DebugProject/Core/Inc/stm32f1xx_hal_conf.h
         DebugProject/Core/Inc/stm32f1xx_it.h
+        DebugProject/Core/Inc/usart.h
         DebugProject/Core/Src/gpio.c
         DebugProject/Core/Src/main.c
         DebugProject/Core/Src/stm32f1xx_hal_msp.c
         DebugProject/Core/Src/stm32f1xx_it.c
         DebugProject/Core/Src/system_stm32f1xx.c
+        DebugProject/Core/Src/usart.c
         DebugProject/Drivers/CMSIS/Core/Include/cmsis_armcc.h
         DebugProject/Drivers/CMSIS/Core/Include/cmsis_armclang.h
         DebugProject/Drivers/CMSIS/Core/Include/cmsis_compiler.h
@@ -973,10 +976,16 @@ add_executable(Project
         DebugProject/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c
         DebugProject/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.c
         DebugProject/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt
+        DebugProject/MDK-ARM/Debug_Function/Header/Debug.h
         DebugProject/MDK-ARM/Debug_Function/Header/include.h
         DebugProject/MDK-ARM/Debug_Function/Header/include_to_c.h
+        DebugProject/MDK-ARM/Debug_Function/Type/Debug.cpp
         DebugProject/MDK-ARM/Debug_Function/Debug_main.cpp
         DebugProject/MDK-ARM/DebugConfig/DebugProject_STM32F103C8_1.0.0.dbgconf
+        DebugProject/MDK-ARM/DebugProject/debug.d
+        DebugProject/MDK-ARM/DebugProject/debug.o
+        DebugProject/MDK-ARM/DebugProject/debug_main.d
+        DebugProject/MDK-ARM/DebugProject/debug_main.o
         DebugProject/MDK-ARM/DebugProject/DebugProject.axf
         DebugProject/MDK-ARM/DebugProject/DebugProject.build_log.htm
         DebugProject/MDK-ARM/DebugProject/DebugProject.hex
@@ -1018,14 +1027,19 @@ add_executable(Project
         DebugProject/MDK-ARM/DebugProject/stm32f1xx_hal_tim.o
         DebugProject/MDK-ARM/DebugProject/stm32f1xx_hal_tim_ex.d
         DebugProject/MDK-ARM/DebugProject/stm32f1xx_hal_tim_ex.o
+        DebugProject/MDK-ARM/DebugProject/stm32f1xx_hal_uart.d
+        DebugProject/MDK-ARM/DebugProject/stm32f1xx_hal_uart.o
         DebugProject/MDK-ARM/DebugProject/stm32f1xx_it.d
         DebugProject/MDK-ARM/DebugProject/stm32f1xx_it.o
         DebugProject/MDK-ARM/DebugProject/system_stm32f1xx.d
         DebugProject/MDK-ARM/DebugProject/system_stm32f1xx.o
+        DebugProject/MDK-ARM/DebugProject/usart.d
+        DebugProject/MDK-ARM/DebugProject/usart.o
         DebugProject/MDK-ARM/RTE/_DebugProject/RTE_Components.h
+        DebugProject/MDK-ARM/DebugProject.uvguix.Admin
         DebugProject/MDK-ARM/DebugProject.uvguix.Cossiant
         DebugProject/MDK-ARM/DebugProject.uvoptx
         DebugProject/MDK-ARM/DebugProject.uvprojx
         DebugProject/MDK-ARM/startup_stm32f103xb.s
         DebugProject/.mxproject
-        DebugProject/DebugProject.ioc DebugProject/MDK-ARM/Debug_Function/Header/Debug.h DebugProject/MDK-ARM/Debug_Function/Type/Debug.cpp)
+        DebugProject/DebugProject.ioc)
