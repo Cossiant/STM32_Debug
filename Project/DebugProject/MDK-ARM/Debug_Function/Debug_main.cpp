@@ -9,5 +9,8 @@ void Debug_Main() {
 }
 
 void Debug_Main_While() {
-    Debug.LED_Debug();
+	//printf("W");//测试代码，记得删除（测试串口发送数据是否成功）
+  Debug.LED_Debug();
+	//Debug.Data_Init(&(Debug.Debug_Data),"Hello World");//传入要输出的数据(测试代码)
+	Debug.UART_Debug("Hello World!");//对传入数据进行UART输出(输出为字符串)（可使用RCT6与PC进行通讯测试结果）
 }
