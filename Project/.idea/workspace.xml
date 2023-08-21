@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -16,37 +16,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a8d47fd-e01e-4612-b840-0e321c5f39b3" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject.uvoptx" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject.uvoptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject.uvprojx" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject.uvprojx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.axf" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.axf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.build_log.htm" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.build_log.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.hex" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.hex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.htm" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.map" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject_DebugProject.dep" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject_DebugProject.dep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Debug_main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Debug_main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Header/Debug.h" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Header/Debug.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Header/include.h" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Header/include.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Type/Debug.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Type/Debug.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +60,10 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config",
     "vue.rearranger.settings.migration": "true"
   }
@@ -89,10 +77,26 @@
       <option name="presentableId" value="Default" />
       <updated>1692545946271</updated>
       <workItem from="1692545947494" duration="56000" />
+      <workItem from="1692546406702" duration="25000" />
+      <workItem from="1692578149740" duration="2507000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
