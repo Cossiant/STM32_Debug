@@ -1,4 +1,4 @@
-#ifndef DEBUG_H
+﻿#ifndef DEBUG_H
 #define DEBUG_H
 
 //Debug发送出去的数据（测试用）
