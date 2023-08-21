@@ -15,23 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a8d47fd-e01e-4612-b840-0e321c5f39b3" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject.uvoptx" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject.uvoptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject.uvprojx" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject.uvprojx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.axf" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.axf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.build_log.htm" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.build_log.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.hex" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.hex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.htm" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.map" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject_DebugProject.dep" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/DebugProject/DebugProject_DebugProject.dep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Debug_main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Debug_main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Header/Debug.h" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Header/Debug.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Header/include.h" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Header/include.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Type/Debug.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DebugProject/MDK-ARM/Debug_Function/Type/Debug.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9a8d47fd-e01e-4612-b840-0e321c5f39b3" name="更改" comment="V1.2.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -53,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.cidr.embedded.config&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -97,6 +82,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="V1.2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1.2.2" />
   </component>
 </project>
