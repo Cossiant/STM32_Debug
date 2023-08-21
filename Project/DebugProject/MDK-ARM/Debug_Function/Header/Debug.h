@@ -16,6 +16,7 @@ public:
     //Debug_Data_Class Debug_Data;
     void LED_Debug();//LED闪烁Debug函数
     void UART_Debug(const char *Data);//串口输出数据Debug函数（需要对应接收端，而且使用前记得修改波特率）
+    void IO_Debug(char GPIO_PORT, int GPIO_PIN, unsigned char IO_Setting);//IO输出对应电平的Debug函数
     //void Data_Init(Debug_Data_Class *Debug_Data,const char *Input_Data);//数据初始化函数
 };
 
