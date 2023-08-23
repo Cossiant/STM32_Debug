@@ -17,7 +17,7 @@
         <TargetCommonOption>
           <Device>STM32F103C8</Device>
           <Vendor>STMicroelectronics</Vendor>
-          <PackID>Keil.STM32F1xx_DFP.2.4.0</PackID>
+          <PackID>Keil.STM32F1xx_DFP.2.3.0</PackID>
           <PackURL>http://www.keil.com/pack/</PackURL>
           <Cpu>IRAM(0x20000000-0x20004FFF) IROM(0x8000000-0x800FFFF) CLOCK(8000000) CPUTYPE("Cortex-M3") TZ</Cpu>
           <FlashUtilSpec></FlashUtilSpec>
@@ -341,7 +341,7 @@
               <MiscControls></MiscControls>
               <Define>USE_HAL_DRIVER,STM32F103xB</Define>
               <Undefine></Undefine>
-              <IncludePath>../Core/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy;../Drivers/CMSIS/Device/ST/STM32F1xx/Include;../Drivers/CMSIS/Include;./Debug_Function/Header;./Debug_Function/Type;./Debug_Function</IncludePath>
+              <IncludePath>../Core/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy;../Drivers/CMSIS/Device/ST/STM32F1xx/Include;../Drivers/CMSIS/Include;./Debug_Function/Header;./Debug_Function/Type;./Debug_Function;.\Debug_Function\OLED</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -636,6 +636,21 @@
               <FileName>Debug.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Debug_Function\Header\Debug.h</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>OLED</GroupName>
+          <Files>
+            <File>
+              <FileName>IIC.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Debug_Function\OLED\IIC.h</FilePath>
+            </File>
+            <File>
+              <FileName>IIC.cpp</FileName>
+              <FileType>8</FileType>
+              <FilePath>.\Debug_Function\OLED\IIC.cpp</FilePath>
             </File>
           </Files>
         </Group>

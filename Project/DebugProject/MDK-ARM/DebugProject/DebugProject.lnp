@@ -22,6 +22,7 @@
 "debugproject\system_stm32f1xx.o"
 "debugproject\debug_main.o"
 "debugproject\debug.o"
+"debugproject\iic.o"
 --strict --scatter "DebugProject\DebugProject.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

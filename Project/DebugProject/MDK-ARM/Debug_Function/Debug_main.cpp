@@ -5,7 +5,7 @@
 Debug_Class Debug;
 
 void Debug_Main() {
-
+	IIC_Init();
 }
 
 void Debug_Main_While() {
